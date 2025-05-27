@@ -1,7 +1,7 @@
 # Exno.7 - Prompt Engineering
 
 ### Date: 23/.5/2025
-### Register No.: 212222230132
+### Register No.: 212222060123
 
 ### Aim:
 To develop a prompt-based application tailored to personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
